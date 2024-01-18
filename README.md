@@ -6,7 +6,8 @@
 - Paper Sofia (Luis Justulin) - final results
 - miRs - Emershow (Willian Zambuzzi) - final results
 - Cluster Kirmapper (Erick Castelli) - preliminar results
-- MICA/B activation paths - preliminar results
+- MICA/B activation paths (Erick Castelli) - preliminar results
+- brain organoids scRNA (Rodrigo da Silva) - preliminar results
 
 ## Submitted
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
