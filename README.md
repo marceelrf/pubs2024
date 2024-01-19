@@ -12,6 +12,7 @@
 
 ## Submitted
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
+- Bioinfo-HAP. (Willian Zambuzzi)
 - Adora2A dowregulation promotes caffeine neuroprotective effect against LPS-induced neuroinflammation in the hippocampus. (Rodrigo da Silva)
 ## Accepted
 
