@@ -15,4 +15,4 @@
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Adora2A dowregulation promotes caffeine neuroprotective effect against LPS-induced neuroinflammation in the hippocampus. (Rodrigo da Silva)
 ## Accepted
-- Combination of in si lico and cell culture strategies to predict biomaterial performance: effects of sintering temperature on the biological properties of hydroxyapatite.(Willian Zambuzzi)
+- Combination of in silico and cell culture strategies to predict biomaterial performance: effects of sintering temperature on the biological properties of hydroxyapatite.(Willian Zambuzzi)
