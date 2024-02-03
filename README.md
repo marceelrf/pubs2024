@@ -1,6 +1,6 @@
 # pubs2024
 
-## In progress [9]
+## In progress [10]
 - Forensic review (Celso & Erick) - writing
 - Paper Corote (Luis Justulin) - writing
 - Paper Sofia (Luis Justulin) - final results
@@ -10,6 +10,8 @@
 - brain organoids scRNA (Rodrigo da Silva) - preliminar results
 - tidyspec (Marcel Ferreira) - preliminar writing
 - Hottip seq Amanda (Willian Zambuzzi) - preliminar results
+- Cytokines - Geovanna - preliminar results
+- RNAseq - Luana preliminar results
 
 ## Submitted [2]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
