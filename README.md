@@ -14,6 +14,7 @@
 - RNAseq - Luana preliminar results
 - RNAseq (Cintia & Flavia) - preliminar results
 - PRP chap 4 (Willian Zambuzzi) - final wrinting
+- Paper Julia (Willian Zambuzzi) - final results
 
 ## Submitted [2]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
