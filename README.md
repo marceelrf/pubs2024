@@ -1,6 +1,6 @@
 # pubs2024
 
-## In progress [14]
+## In progress [15]
 - Forensic review (Celso & Erick) - writing
 - Paper Corote (Luis Justulin) - writing
 - Paper Sofia (Luis Justulin) - final results
@@ -15,6 +15,7 @@
 - RNAseq (Cintia & Flavia) - preliminar results
 - PRP chap 4 (Willian Zambuzzi) - final wrinting
 - Paper Julia (Willian Zambuzzi) - final results
+- paper metiloma (Willian Zambuzzi) - final results
 
 ## Submitted [2]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
