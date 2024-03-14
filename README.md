@@ -17,10 +17,10 @@
 - Paper Julia (Willian Zambuzzi) - final results
 - paper metiloma (Willian Zambuzzi) - final results
 
-## Submitted [2]
+## Submitted [1]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 
 
-## Accepted [1]
+## Accepted [2]
 - Combination of in silico and cell culture strategies to predict biomaterial performance: effects of sintering temperature on the biological properties of hydroxyapatite.(Willian Zambuzzi)
 - Adora2A dowregulation promotes caffeine neuroprotective effect against LPS-induced neuroinflammation in the hippocampus. (Rodrigo da Silva) [x]
