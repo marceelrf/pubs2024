@@ -19,7 +19,7 @@
 
 ## Submitted [1]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
-
+- Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
 
 ## Accepted [2]
 - Combination of in silico and cell culture strategies to predict biomaterial performance: effects of sintering temperature on the biological properties of hydroxyapatite.(Willian Zambuzzi)
