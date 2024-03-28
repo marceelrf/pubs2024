@@ -16,6 +16,7 @@
 - PRP chap 4 (Willian Zambuzzi) - final wrinting
 - Paper Julia (Willian Zambuzzi) - final results
 - paper metiloma (Willian Zambuzzi) - final results
+- Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi) - final writing
 
 ## Submitted [2]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
