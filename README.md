@@ -18,7 +18,7 @@
 - paper metiloma (Willian Zambuzzi) - final results
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi) - final writing
 
-## Submitted [2]
+## Submitted [3]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
 - Identification of lncRNA expression in the ventral prostate of rats submitted to maternal malnutrition: potential biomarkers of the developmental origin of prostate cancer. (Justulin)
