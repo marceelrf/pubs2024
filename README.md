@@ -2,7 +2,7 @@
 
 ## In progress [16]
 - Forensic review (Celso & Erick) - writing
-- Paper Corote (Luis Justulin) - writing []
+- Paper Corote (Luis Justulin) - writing [REMOVER?]
 - Paper Sofia (Luis Justulin) - final results
 - miRs - Emershow (Willian Zambuzzi) - final results
 - Cluster Kirmapper (Erick Castelli) - preliminar results
