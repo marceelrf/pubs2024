@@ -2,7 +2,7 @@
 
 ## In progress [16]
 - Forensic review (Celso & Erick) - writing
-- Paper Corote (Luis Justulin) - writing
+- Paper Corote (Luis Justulin) - writing []
 - Paper Sofia (Luis Justulin) - final results
 - miRs - Emershow (Willian Zambuzzi) - final results
 - Cluster Kirmapper (Erick Castelli) - preliminar results
@@ -21,6 +21,7 @@
 ## Submitted [2]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
+- Identification of lncRNA expression in the ventral prostate of rats submitted to maternal malnutrition: potential biomarkers of the developmental origin of prostate cancer. (Justulin)
 
 ## Accepted [2]
 - Combination of in silico and cell culture strategies to predict biomaterial performance: effects of sintering temperature on the biological properties of hydroxyapatite.(Willian Zambuzzi)
