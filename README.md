@@ -1,7 +1,6 @@
 # pubs2024
 
-## In progress [16]
-- Forensic review (Celso & Erick) - writing
+## In progress [15]
 - Paper Corote (Luis Justulin) - writing [REMOVER?]
 - Paper Sofia (Luis Justulin) - final results
 - miRs - Emershow (Willian Zambuzzi) - final results
@@ -13,7 +12,6 @@
 - Cytokines - Geovanna - preliminar results
 - RNAseq - Luana preliminar results
 - RNAseq (Cintia & Flavia) - preliminar results
-- PRP chap 4 (Willian Zambuzzi) - final wrinting
 - Paper Julia (Willian Zambuzzi) - final results
 - paper metiloma (Willian Zambuzzi) - final results
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi) - final writing
@@ -22,6 +20,8 @@
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
 - Identification of lncRNA expression in the ventral prostate of rats submitted to maternal malnutrition: potential biomarkers of the developmental origin of prostate cancer. (Justulin)
+- Forensic review (Celso & Erick);
+- Differentiation model of mesenchymal stem cells responding to lyophilized platelet-rich plasma in early cellular osteogenesis (Willian Zambuzzi);
 
 ## Accepted [2]
 - Combination of in silico and cell culture strategies to predict biomaterial performance: effects of sintering temperature on the biological properties of hydroxyapatite.(Willian Zambuzzi)
