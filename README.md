@@ -1,6 +1,6 @@
 # pubs2024
 
-## In progress [15]
+## In progress [14]
 - Paper Corote (Luis Justulin) - writing [REMOVER?]
 - Paper Sofia (Luis Justulin) - final results
 - miRs - Emershow (Willian Zambuzzi) - final results
@@ -16,10 +16,9 @@
 - paper metiloma (Willian Zambuzzi) - final results
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi) - final writing
 
-## Submitted [3]
+## Submitted [4]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
-- Identification of lncRNA expression in the ventral prostate of rats submitted to maternal malnutrition: potential biomarkers of the developmental origin of prostate cancer. (Justulin)
 - Forensic review (Celso & Erick);
 - Differentiation model of mesenchymal stem cells responding to lyophilized platelet-rich plasma in early cellular osteogenesis (Willian Zambuzzi);
 
