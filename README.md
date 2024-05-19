@@ -4,12 +4,12 @@
 - Paper Corote (Luis Justulin) - writing
 - Paper Sofia (Luis Justulin) - final results
 - miRs - Emershow (Willian Zambuzzi) - final results
-- Cluster Kirmapper (Erick Castelli) - preliminar results
+- Cluster Kirmapper (Erick Castelli) - final results
 - MICA/B activation paths (Erick Castelli) - preliminar results
 - brain organoids scRNA (Rodrigo da Silva) - preliminar results
 - tidyspec (Marcel Ferreira) - preliminary writing
 - Hottip seq Amanda (Willian Zambuzzi) - preliminar results
-- Cytokines - Geovanna - preliminar results
+- Cytokines - Geovanna - final results
 - RNAseq - Luana preliminar results
 - RNAseq (Cintia & Flavia) - preliminar results
 - Paper Julia (Willian Zambuzzi) - final results
