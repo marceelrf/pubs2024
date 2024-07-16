@@ -2,7 +2,6 @@
 
 ## In progress [13]
 - Paper Corote (Luis Justulin) - writing
-- Paper Sofia (Luis Justulin) - final results
 - miRs - Emershow (Willian Zambuzzi) - final results
 - Cluster Kirmapper (Erick Castelli) - final results
 - MICA/B activation paths (Erick Castelli) - preliminar results
@@ -15,12 +14,13 @@
 - paper metiloma (Willian Zambuzzi) - final results
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi) - final writing
 
-## Submitted [5]
+## Submitted [6]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
 - Forensic review (Celso & Erick);
 - Differentiation model of mesenchymal stem cells responding to lyophilized platelet-rich plasma in early cellular osteogenesis (Willian Zambuzzi);
 - Cytokines - Geovanna (Marcia)
+- Identification of molecular pathways involved in the male offspring lung response to maternal protein restriction: A long-term study. (Luis Antonio Justulin)
 
 ## Accepted [3]
 - Combination of in silico and cell culture strategies to predict biomaterial performance: effects of sintering temperature on the biological properties of hydroxyapatite.(Willian Zambuzzi)
