@@ -1,6 +1,6 @@
 # pubs2024
 
-## In progress [12]
+## In progress [13]
 - Paper Corote (Luis Justulin) - writing
 - miRs - Emershow (Willian Zambuzzi) - final results
 - Cluster Kirmapper (Erick Castelli) - final results
@@ -13,6 +13,7 @@
 - Paper Julia (Willian Zambuzzi) - final results
 - paper metiloma (Willian Zambuzzi) - final results
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi) - final writing
+- Differential plasticity of arterial and venous endothelial cell on driving osteoblastic phenotype (Willian Zambuzzi)
 
 ## Submitted [6]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
