@@ -23,7 +23,8 @@
 - Cytokines - Geovanna (Marcia)
 - Identification of molecular pathways involved in the male offspring lung response to maternal protein restriction: A long-term study. (Luis Antonio Justulin)
 
-## Accepted [3]
+## Accepted [4]
 - Combination of in silico and cell culture strategies to predict biomaterial performance: effects of sintering temperature on the biological properties of hydroxyapatite.(Willian Zambuzzi)
 - Adora2A dowregulation promotes caffeine neuroprotective effect against LPS-induced neuroinflammation in the hippocampus. (Rodrigo da Silva)
 - Vascular Smooth Muscle Cells Exhibit Elevated Hypoxia-Inducible Factor-1α Expression in Human Blood Vessel Organoids, Influencing Osteogenic Performance (Willian Zambuzzi)
+- Vascular smooth muscle cell-derived exosomes promote osteoblast-to-osteocyte transition via β-catenin signaling (Willian Zambuzzi)
