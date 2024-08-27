@@ -1,7 +1,7 @@
 # pubs2024
 
 ## In progress [13]
-- Paper Corote (Luis Justulin) - writing
+- Paper Corote (Luis Justulin) - writingas
 - miRs - Emershow (Willian Zambuzzi) - final results
 - Cluster Kirmapper (Erick Castelli) - final results
 - MICA/B activation paths (Erick Castelli) - preliminar results
