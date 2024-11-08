@@ -3,7 +3,7 @@
 ## In progress [13]
 - Paper Corote (Luis Justulin) - writingas
 - miRs - Emershow (Willian Zambuzzi) - final results
-- Cluster Kirmapper (Erick Castelli) - final results
+- Kirmapper (Erick Castelli) - final results
 - MICA/B activation paths (Erick Castelli) - preliminar results
 - brain organoids scRNA (Rodrigo da Silva) - preliminar results
 - tidyspec (Marcel Ferreira) - preliminary writing
